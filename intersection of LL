@@ -17,6 +17,6 @@ public class Solution {
             else
             ptr2 = ptr2.next;
         }
-        return ptr1;
+        return ptr1;//return ptr2 bhi chalega
     }
 }
